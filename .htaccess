@@ -1,0 +1,12 @@
+*.php
+public/vendor/phpmailer/phpmailer/.editorconfig
+public/vendor/composer/installed.json
+public/vendor/composer/installed.php
+public/vendor/phpmailer/phpmailer/.editorconfig
+public/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php
+public/vendor/phpmailer/phpmailer/README.md
+public/vendor/phpmailer/phpmailer/SMTPUTF8.md
+public/vendor/phpmailer/phpmailer/src/PHPMailer.php
+public/vendor/phpmailer/phpmailer/src/POP3.php
+public/vendor/phpmailer/phpmailer/src/SMTP.php
+public/vendor/phpmailer/phpmailer/VERSION
